@@ -51,3 +51,8 @@ Visualization
 ## Installation
 
 Clone the repository
+
+---
+
+## Author
+Jatin Mallick
