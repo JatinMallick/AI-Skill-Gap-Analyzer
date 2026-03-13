@@ -1,0 +1,1 @@
+r"C:\Users\jatin\Desktop\skill_gap_analyzer\data\skills.txt"

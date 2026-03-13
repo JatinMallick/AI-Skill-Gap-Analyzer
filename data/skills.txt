@@ -1,0 +1,15 @@
+python
+pandas
+numpy
+machine learning
+sql
+flask
+docker
+aws
+git
+c++
+mongodb
+deep learning
+tensorflow
+keras
+pytorch
